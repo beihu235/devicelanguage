@@ -1,5 +1,6 @@
 package com.devicelanguage;
 
+import org.haxe.lime.HaxeObject;
 
 import org.haxe.extension.Extension;
 import java.util.Locale;
